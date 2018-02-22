@@ -1,2 +1,2 @@
 # Switcharoo
-A game I made for chillenium 2017
+A game I made with a friend for chillenium 2017
